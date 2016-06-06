@@ -1,0 +1,8 @@
+BattlEye/
+bec/
+Users/
+Tmp*/
+*.rpt
+*.txt
+*.cfg
+*.ini
